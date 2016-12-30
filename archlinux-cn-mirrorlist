@@ -4,20 +4,18 @@
 # Generated on 2016-09-24
 #
 
-## China
-Server = http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirror.lzu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
-Server = http://run.hit.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.skyshe.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+
+## - 中国科学技术大学
 Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
+
+## - 网易
 Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+
+## -清华大学
+## Server = https://mirrors.tuna.tsinghua.edu.cn/
+Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
 
 ## - 北京理工大学
 Server = http://mirror.bit.edu.cn/archlinux/
@@ -40,3 +38,15 @@ Server = http://mirror.lzu.edu.cn/archlinux/
 ##联通
 Server = http://mirrors.sohu.com/archlinux/
 Server = http://mirrors.yun-idc.com/archlinux/
+
+
+
+## China
+Server = http://mirror.lzu.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
+Server = http://run.hit.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.skyshe.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
